@@ -4,6 +4,8 @@
        width="1200">
 </p>
 
+<br/>
+
 <h2 align="center">⚙️ Skills</h2>
 
 <p align="center">
@@ -38,4 +40,13 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+</p>
+
+<br/><br/>
+
+<h2 align="center">📌 Portfolio</h2>
+<p align="center">
+  <a href="https://seoha25.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit Portfolio"/>
+  </a>
 </p>
