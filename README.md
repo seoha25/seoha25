@@ -52,13 +52,7 @@
   </a>
 </p>
 
-<br/>
 
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seoha25&bg_color=60,9dbdfe,74b5be&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoha25&layout=compact&bg_color=60,9dbdfe,74b5be&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
     
 
 
